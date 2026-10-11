@@ -1,0 +1,7 @@
+2026-10-01;makan;15000;Nasi goreng
+2026-10-01;transport;8000;Ojek ke kampus
+2026-10-02;makan;12000;Mie ayam
+2026-10-03;hiburan;50000;Nonton bioskop
+2026-10-04;kuliah;35000;Fotokopi modul
+2026-10-05;makan;abc;Salah ketik nominal
+2026-10-06;transport;-5000;Nominal negatif
